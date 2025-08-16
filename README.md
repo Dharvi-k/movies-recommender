@@ -5,7 +5,7 @@ A simple yet powerful Movie Recommendation System built with Python, Streamlit, 
 
 🚀 Live Demo: [Click here to try the app](https://dharvi-k-movies-recommender-movies-qyztqx.streamlit.app/)
 
-📖 Project Notebook: [Colab Notebook](https://colab.research.google.com/drive/1iBHdqKeywQ-wBRHJnXyKgRU0pIfuX9Wt)
+📖 Project Notebook: ✅ Available in repository
 
 ---
 🔍 Features
